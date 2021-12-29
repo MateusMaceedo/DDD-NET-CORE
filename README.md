@@ -8,6 +8,20 @@ Alguns modelos de empresas, como as fintechs, utilizam os padrões estratégicos
 
 Arquitetura de Sistemas Corporativos é um tema muito menos explorado do que Rest Api e nem por isso é menos importante (na verdade é bem mais), Neste vídeo tutorial eu mostrarei como criar uma arquitetura padrão DDD utilizando ASP.NET CORE 3.1, Entity Framework Core, Docker, IoC com AutoFac e muitas dicas para criar uma arquitetura modelo e totalmente responsável.
 
+Domain-Driver Design ou Projeto Orientado a Domínio é um padrão de modelagem de software orientado a objetos que procura reforçar conceitos e boas práticas relacionadas à OO.
+
+Isso vem de contrapartida com o uso comum do Data-Driver Design ou Projetos Orientado a Dados, que a maioria dos desenvolvedores usa sem mesmo ter consciência disso.
+
+#### Data-Driver Development
+
+Já ouvi várias vezes que os dados são a coisa mais importante em uma uma empresa, logo a modelagem deve sempre começar pensando no banco de dados.
+
+Não é nada incomum desenvolvedores .Net, Java, C++ começarem em sistema estabelecendo os tipos que eles não usar e o relacionamento entre eles. Esses tipos geralmente são objetos "burros", com getters e setters, representando nada mais, nada menos, que uma tabela do banco de dados.
+
+O problema com essa abordagem é que ela não faz bom uso dos recursos Orientação a Objetos. Muitos acham que Getters e Setters são oauge do encapsulamento, mas na prática esse métodos permitem ao usuário recuperar e alterar todos os atributos. Não há ganho algum, a não ser muito código desnecessário.
+
+Enfim, muita gente acha que está usando OO, mas as classes poderiam ser facilmente substituídas por registros ou estruturas, de acordo com a linguagem utilizada.
+
 Referências:
 
 - 1 - [DDD - Introdução a Domain Driver Design](http://www.agileandart.com/2010/07/16/ddd-introducao-a-domain-driven-design/)
