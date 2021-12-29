@@ -10,6 +10,6 @@ Arquitetura de Sistemas Corporativos é um tema muito menos explorado do que Res
 
 Referências:
 
-1 - [DDD - Introdução a Domain Driver Design](http://www.agileandart.com/2010/07/16/ddd-introducao-a-domain-driven-design/)
-2 - [Coding for Domain-Driven Design: Tips for Data-Focused Devs](http://msdn.microsoft.com/en-us/magazine/dn342868.aspx)
-3 - [Domain Driven Design Quickly](http://www.infoq.com/minibooks/domain-driven-design-quickly)
+- 1 - [DDD - Introdução a Domain Driver Design](http://www.agileandart.com/2010/07/16/ddd-introducao-a-domain-driven-design/)
+- 2 - [Coding for Domain-Driven Design: Tips for Data-Focused Devs](http://msdn.microsoft.com/en-us/magazine/dn342868.aspx)
+- 3 - [Domain Driven Design Quickly](http://www.infoq.com/minibooks/domain-driven-design-quickly)
