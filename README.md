@@ -7,3 +7,9 @@ Alguns modelos de empresas, como as fintechs, utilizam os padrões estratégicos
 - NET CORE 5, Entity Framework Core, Docker, IoC com AutoFac e muitas dicas para criar uma arquitetura modelo e totalmente responsável.
 
 Arquitetura de Sistemas Corporativos é um tema muito menos explorado do que Rest Api e nem por isso é menos importante (na verdade é bem mais), Neste vídeo tutorial eu mostrarei como criar uma arquitetura padrão DDD utilizando ASP.NET CORE 3.1, Entity Framework Core, Docker, IoC com AutoFac e muitas dicas para criar uma arquitetura modelo e totalmente responsável.
+
+Referências:
+
+1 - [DDD - Introdução a Domain Driver Design](http://www.agileandart.com/2010/07/16/ddd-introducao-a-domain-driven-design/)
+2 - [Coding for Domain-Driven Design: Tips for Data-Focused Devs](http://msdn.microsoft.com/en-us/magazine/dn342868.aspx)
+3 - [Domain Driven Design Quickly](http://www.infoq.com/minibooks/domain-driven-design-quickly)
