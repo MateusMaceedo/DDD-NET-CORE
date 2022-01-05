@@ -7,3 +7,10 @@ Alguns modelos de empresas, como as fintechs, utilizam os padrões estratégicos
 - NET CORE 5, Entity Framework Core, Docker, IoC com AutoFac e muitas dicas para criar uma arquitetura modelo e totalmente responsável.
 
 Arquitetura de Sistemas Corporativos é um tema muito menos explorado do que Rest Api e nem por isso é menos importante (na verdade é bem mais), Neste vídeo tutorial eu mostrarei como criar uma arquitetura padrão DDD utilizando ASP.NET CORE 3.1, Entity Framework Core, Docker, IoC com AutoFac e muitas dicas para criar uma arquitetura modelo e totalmente responsável.
+
+#### 👨🏻‍🚀 Sobre mim
+<a href="https://www.linkedin.com/in/mateus-macedo-937a32163/">
+ <img style="border-radius:50%" width="100px; "src="https://avatars.githubusercontent.com/u/63172367?s=460&u=11fd26ea8a7f5663d7707d7ef254e4f8bfca1b05&v=4"/>
+ <p>Mateus Macedo</p>
+</a>
+
