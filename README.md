@@ -9,11 +9,11 @@ Alguns modelos de empresas, como as fintechs, utilizam os padrões estratégicos
 Arquitetura de Sistemas Corporativos é um tema muito menos explorado do que Rest Api e nem por isso é menos importante (na verdade é bem mais), Neste vídeo tutorial eu mostrarei como criar uma arquitetura padrão DDD utilizando ASP.NET CORE 3.1, Entity Framework Core, Docker, IoC com AutoFac e muitas dicas para criar uma arquitetura modelo e totalmente responsável.
 
 - Fundamentos de Arquitetura de Software
-Conceitos fundamentais sobre arquitura de software.
+* Conceitos fundamentais sobre arquitura de software.
 - Modelagem de Domnínios Ricos
-Modelagem de arquiteturas modernas e distribuídas com foco no negócio.
+* Modelagem de arquiteturas modernas e distribuídas com foco no negócio.
 - Dominandos os Testes de Software
-Testes, trabalhando com TDD, BDD, DDD e projetar testes automatizados.
+* Testes, trabalhando com TDD, BDD, DDD e projetar testes automatizados.
 
 #### 👨🏻‍🚀 Sobre mim
 <a href="https://www.linkedin.com/in/mateus-macedo-937a32163/">
