@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ProjetoModeloDDD.Application/1.0.0": {
+        "dependencies": {
+          "ProjetoModeloDDD.Domain": "1.0.0"
+        },
+        "runtime": {
+          "ProjetoModeloDDD.Application.dll": {}
+        }
+      },
+      "ProjetoModeloDDD.Domain/1.0.0": {
+        "runtime": {
+          "ProjetoModeloDDD.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ProjetoModeloDDD.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ProjetoModeloDDD.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

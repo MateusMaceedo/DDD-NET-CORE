@@ -1,0 +1,8 @@
+C:\Users\mateu\OneDrive\Área de Trabalho\ProjetoModeloDDD\ProjetoModeloDDD.Mvc\obj\Debug\netcoreapp3.1\ProjetoModeloDDD.Mvc.csproj.AssemblyReference.cache
+C:\Users\mateu\OneDrive\Área de Trabalho\ProjetoModeloDDD\ProjetoModeloDDD.Mvc\obj\Debug\netcoreapp3.1\ProjetoModeloDDD.Mvc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateu\OneDrive\Área de Trabalho\ProjetoModeloDDD\ProjetoModeloDDD.Mvc\obj\Debug\netcoreapp3.1\ProjetoModeloDDD.Mvc.AssemblyInfoInputs.cache
+C:\Users\mateu\OneDrive\Área de Trabalho\ProjetoModeloDDD\ProjetoModeloDDD.Mvc\obj\Debug\netcoreapp3.1\ProjetoModeloDDD.Mvc.AssemblyInfo.cs
+C:\Users\mateu\OneDrive\Área de Trabalho\ProjetoModeloDDD\ProjetoModeloDDD.Mvc\obj\Debug\netcoreapp3.1\ProjetoModeloDDD.Mvc.csproj.CoreCompileInputs.cache
+C:\Users\mateu\OneDrive\Área de Trabalho\ProjetoModeloDDD\ProjetoModeloDDD.Mvc\obj\Debug\netcoreapp3.1\ProjetoModeloDDD.Mvc.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mateu\OneDrive\Área de Trabalho\ProjetoModeloDDD\ProjetoModeloDDD.Mvc\obj\Debug\netcoreapp3.1\ProjetoModeloDDD.Mvc.RazorAssemblyInfo.cache
+C:\Users\mateu\OneDrive\Área de Trabalho\ProjetoModeloDDD\ProjetoModeloDDD.Mvc\obj\Debug\netcoreapp3.1\ProjetoModeloDDD.Mvc.RazorAssemblyInfo.cs

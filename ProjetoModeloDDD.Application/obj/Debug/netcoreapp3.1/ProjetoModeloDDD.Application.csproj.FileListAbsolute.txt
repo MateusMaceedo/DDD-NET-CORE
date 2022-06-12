@@ -1,0 +1,13 @@
+C:\Users\mateu\OneDrive\Área de Trabalho\ProjetoModeloDDD\ProjetoModeloDDD.Application\bin\Debug\netcoreapp3.1\ProjetoModeloDDD.Application.deps.json
+C:\Users\mateu\OneDrive\Área de Trabalho\ProjetoModeloDDD\ProjetoModeloDDD.Application\bin\Debug\netcoreapp3.1\ProjetoModeloDDD.Application.dll
+C:\Users\mateu\OneDrive\Área de Trabalho\ProjetoModeloDDD\ProjetoModeloDDD.Application\bin\Debug\netcoreapp3.1\ProjetoModeloDDD.Application.pdb
+C:\Users\mateu\OneDrive\Área de Trabalho\ProjetoModeloDDD\ProjetoModeloDDD.Application\bin\Debug\netcoreapp3.1\ProjetoModeloDDD.Domain.dll
+C:\Users\mateu\OneDrive\Área de Trabalho\ProjetoModeloDDD\ProjetoModeloDDD.Application\bin\Debug\netcoreapp3.1\ProjetoModeloDDD.Domain.pdb
+C:\Users\mateu\OneDrive\Área de Trabalho\ProjetoModeloDDD\ProjetoModeloDDD.Application\obj\Debug\netcoreapp3.1\ProjetoModeloDDD.Application.csproj.AssemblyReference.cache
+C:\Users\mateu\OneDrive\Área de Trabalho\ProjetoModeloDDD\ProjetoModeloDDD.Application\obj\Debug\netcoreapp3.1\ProjetoModeloDDD.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateu\OneDrive\Área de Trabalho\ProjetoModeloDDD\ProjetoModeloDDD.Application\obj\Debug\netcoreapp3.1\ProjetoModeloDDD.Application.AssemblyInfoInputs.cache
+C:\Users\mateu\OneDrive\Área de Trabalho\ProjetoModeloDDD\ProjetoModeloDDD.Application\obj\Debug\netcoreapp3.1\ProjetoModeloDDD.Application.AssemblyInfo.cs
+C:\Users\mateu\OneDrive\Área de Trabalho\ProjetoModeloDDD\ProjetoModeloDDD.Application\obj\Debug\netcoreapp3.1\ProjetoModeloDDD.Application.csproj.CoreCompileInputs.cache
+C:\Users\mateu\OneDrive\Área de Trabalho\ProjetoModeloDDD\ProjetoModeloDDD.Application\obj\Debug\netcoreapp3.1\ProjetoModeloDDD.Application.csproj.CopyComplete
+C:\Users\mateu\OneDrive\Área de Trabalho\ProjetoModeloDDD\ProjetoModeloDDD.Application\obj\Debug\netcoreapp3.1\ProjetoModeloDDD.Application.dll
+C:\Users\mateu\OneDrive\Área de Trabalho\ProjetoModeloDDD\ProjetoModeloDDD.Application\obj\Debug\netcoreapp3.1\ProjetoModeloDDD.Application.pdb

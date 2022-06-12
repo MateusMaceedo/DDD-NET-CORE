@@ -1,0 +1,10 @@
+C:\Users\mateu\OneDrive\Área de Trabalho\ProjetoModeloDDD\ProjetoModeloDDD.Domain\bin\Debug\netcoreapp3.1\ProjetoModeloDDD.Domain.deps.json
+C:\Users\mateu\OneDrive\Área de Trabalho\ProjetoModeloDDD\ProjetoModeloDDD.Domain\bin\Debug\netcoreapp3.1\ProjetoModeloDDD.Domain.dll
+C:\Users\mateu\OneDrive\Área de Trabalho\ProjetoModeloDDD\ProjetoModeloDDD.Domain\bin\Debug\netcoreapp3.1\ProjetoModeloDDD.Domain.pdb
+C:\Users\mateu\OneDrive\Área de Trabalho\ProjetoModeloDDD\ProjetoModeloDDD.Domain\obj\Debug\netcoreapp3.1\ProjetoModeloDDD.Domain.csproj.AssemblyReference.cache
+C:\Users\mateu\OneDrive\Área de Trabalho\ProjetoModeloDDD\ProjetoModeloDDD.Domain\obj\Debug\netcoreapp3.1\ProjetoModeloDDD.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateu\OneDrive\Área de Trabalho\ProjetoModeloDDD\ProjetoModeloDDD.Domain\obj\Debug\netcoreapp3.1\ProjetoModeloDDD.Domain.AssemblyInfoInputs.cache
+C:\Users\mateu\OneDrive\Área de Trabalho\ProjetoModeloDDD\ProjetoModeloDDD.Domain\obj\Debug\netcoreapp3.1\ProjetoModeloDDD.Domain.AssemblyInfo.cs
+C:\Users\mateu\OneDrive\Área de Trabalho\ProjetoModeloDDD\ProjetoModeloDDD.Domain\obj\Debug\netcoreapp3.1\ProjetoModeloDDD.Domain.csproj.CoreCompileInputs.cache
+C:\Users\mateu\OneDrive\Área de Trabalho\ProjetoModeloDDD\ProjetoModeloDDD.Domain\obj\Debug\netcoreapp3.1\ProjetoModeloDDD.Domain.dll
+C:\Users\mateu\OneDrive\Área de Trabalho\ProjetoModeloDDD\ProjetoModeloDDD.Domain\obj\Debug\netcoreapp3.1\ProjetoModeloDDD.Domain.pdb
